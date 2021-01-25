@@ -31,4 +31,4 @@ jobs:
       with:
         app-name: 'meeconnectingapptostorage'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_d1deaac212a24c68a68e6b2fe863cc53 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_9ea04fe103774b8383a93897ea1c0d53 }}
